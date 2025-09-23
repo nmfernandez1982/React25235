@@ -1,7 +1,8 @@
 import { useState } from "react";
 
 
-export default function FormularioControlado(){
+export default function FormularioControlado()
+{
     const [nombre,setNombre]=useState("");
     const [provincia,setProvincia]=useState("");
     const [fecha,setFecha]=useState("");
