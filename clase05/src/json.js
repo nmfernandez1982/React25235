@@ -34,3 +34,13 @@ const personaConDireccion={
 
 console.log("Nombre:",personaConDireccion.persona.nombre);
 console.log("Codigo Postal:",personaConDireccion.persona.direccion.codigoPostal);
+
+
+
+/*
+GET ---> el servidor me va a devolver algo
+POST --> le voy a pasar algo al servidor
+
+
+
+*/
